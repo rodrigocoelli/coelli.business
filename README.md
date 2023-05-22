@@ -16,3 +16,6 @@ Em resumo, ser um cliente na Coelli Business é conquistar um espaço a mais na 
 resultados e destaque nas páginas do Google. Com sua equipe altamente capacitada e
 enfoque personalizado, você pode ter certeza de que sua presença online será
 impulsionada a novos patamares e que seu negócio alcançará o sucesso que merece.
+
+Ter a sua empresa presente no Google Meu Negócio pode ajudar os clientes a descobrirem os produtos e serviços que você oferece
+ https://github.com/rodrigocoelli/coelli.business/discussions
